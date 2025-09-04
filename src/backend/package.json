@@ -10,11 +10,11 @@
   "author": "akveo <contact@akveo.com>",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
     "jwt-simple": "^0.5.1",
     "moment": "^2.22.2",
-    "passport": "^0.3.2",
+    "passport": "^0.7.0",
     "passport-jwt": "^4.0.0"
   }
 }
